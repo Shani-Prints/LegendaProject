@@ -1,0 +1,21 @@
+#friutBar h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5B67AF;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 7%;
+}
+
+#friutBar p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #555555;
+    line-height: 30px;
+    margin-bottom: 7%;
+    direction: rtl;
+}
+
+#friutBar p span {
+    color: #e63321;
+}

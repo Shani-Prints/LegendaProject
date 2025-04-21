@@ -1,0 +1,83 @@
+#img {
+    width: 100%;
+    margin-top: 4.3%;
+}
+
+header {
+    height: 95px;
+    width: 99%;
+    background-color: #E63312;
+    position: fixed;
+    top: 0%;
+}
+
+#logoTop {
+    width: 14.1%;
+    padding-left: 42%;
+}
+
+.links {
+    text-decoration: none;
+    color: white;
+}
+
+header #headerLinks {
+    font-size: 20px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: fixed;
+    padding: 2.2%;
+    top: 0%;
+    gap: 3%;
+    width: 100%;
+    margin-left: 60%;
+}
+
+#icons {
+    display: flex;
+    gap: 60px;
+    font-size: 20px;
+    margin-top: -5%;
+    margin-left: 2%;
+
+
+}
+
+#userName #headerUser {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#userName {
+    color: white;
+    display: flex;
+    gap: 7px;
+}
+
+#search input {
+    border-radius: 20px;
+    color: #E63312;
+    height: 20px;
+    outline: none;
+    border-style: none;
+
+}
+
+@media (max-width: 900px) and (min-width:350px) {
+    #img {
+        margin-top: 8%;
+    }
+
+    header {
+        height: 11%;
+    }
+
+    #logoTop {
+        width: 18%;
+        margin-top: 5%;
+    }
+
+    header #headerLinks {
+        display: none;
+    }
+}

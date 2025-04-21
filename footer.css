@@ -1,0 +1,38 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    text-align: center;
+    color: #5B67AF;
+}
+
+#footerImg {
+    display: flex;
+    gap: 5px;
+}
+
+.f {
+    width: 19.7%;
+}
+
+#footerLinks {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.fLinks {
+    color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 6%;
+}
+
+.fLinks:hover {
+    color: #E63312;
+}
+
+#logoRed {
+    margin-top: 1%;
+    margin-left: 42%;
+}

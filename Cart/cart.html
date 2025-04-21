@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./cart.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src="./img/events-popup-img.png" alt="" id="cartImg">
+
+    <div id="allCartProducts">
+    </div>
+    <img src="./img/תמונה1.png" alt="" class="lineImg" id="endLine">
+    <div id="payment"></div>
+    <div id="overlay"></div>
+    <div id="popup">
+        <button id="close">x</button>
+        <h3>תשלום</h3>
+        <h4>סה"כ לתשלום: </h4>
+        <div id="total">
+        </div>
+        <br><br>
+        <form>
+            <label for="name" class="style">שם</label>
+            <br>
+            <input type="text" id="name" name="name">
+            <br><br>
+            <label for="email" class="style">אמייל</label>
+            <br>
+            <input type="email" id="email" name="email">
+            <br><br>
+            <label for="phone" class="style">טלפון</label>
+            <br>
+            <input type="text" id="phone" name="phone">
+            <br><br>
+            <label for="visa" class="style">פרטי אשראי</label>
+            <br>
+            <input type="text" id="visa" name="visz" required>
+            <br>
+            <img src="./img/bd_kortlogodk_64px_63caab6067b45.png" alt="" id="visaImg">
+
+        </form>
+        <button type="submit" id="send">שליחה</button>
+
+    </div>
+
+</body>
+<script src="./cart.js"></script>
+
+</html>

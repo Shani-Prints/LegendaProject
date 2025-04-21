@@ -1,0 +1,71 @@
+body {
+    background-color: #ffede9;
+}
+
+#iceCream {
+    width: 320px;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+
+#thisProduct {
+    background-color: #F5ADA0;
+    width: 600px;
+    display: flex;
+    margin-left: 45%;
+    margin-top: -500px;
+}
+
+#divProducts {
+    display: flex;
+    font-size: 15px;
+    text-align: end;
+    flex-direction: column;
+    height: 400px;
+    color: #555555;
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#image {
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#addCart {
+    color: white;
+    border-color: #e63312;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 15px;
+    height: 35px;
+    background-color: #e63312;
+    margin-left: -200px;
+    margin-top: 120px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#cartImg {
+    position: absolute;
+    width: 5%;
+    margin-left: 53%;
+    margin-top: -20px;
+
+}
+
+#icon {
+
+    display: none;
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    top: 72%;
+    right: 88vh;
+    direction: rtl;
+}

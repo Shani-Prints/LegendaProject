@@ -1,0 +1,312 @@
+#btn {
+    font-size: 30px;
+
+    position: absolute;
+    margin-top: -28%;
+    display: flex;
+    width: 99%;
+    justify-content: space-between;
+
+}
+
+#prev,
+#next {
+    width: 80px;
+    height: 200px;
+    background-color: transparent;
+    border: none;
+}
+
+
+#egendaImg {
+    width: 33%;
+    margin-left: 11%;
+    margin-top: 4%;
+}
+
+#egenda>h1 {
+    color: #5B67AF;
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 57%;
+    margin-top: -28%;
+}
+
+p {
+    direction: rtl;
+    color: #555555;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    margin-right: 9%;
+    font-weight: 100;
+}
+
+#sell {
+    direction: rtl;
+}
+
+.ice {
+    width: 20%;
+
+}
+
+#sell>h1 {
+    color: #5B67AF;
+    text-align: center;
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 12%;
+}
+
+#line1 {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+#line2 {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}
+
+#line3 {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+}
+
+#i1 {
+    background-image: url(img/אגוזים-ללא-תוספת-סוכר.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i1:hover {
+    background-image: url(img/אגוזים-ללא-תוספת-סוכר-hover.png);
+}
+
+#i2 {
+    background-image: url(img/קואלה-רושה-טבעוני.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i2:hover {
+    background-image: url(img/קואלה-רושה-טבעוני-hover.png);
+}
+
+#i3 {
+    background-image: url(img/שרי-מניה.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i3:hover {
+    background-image: url(img/שרי-מניה-hover.png);
+
+}
+
+#i4 {
+    background-image: url(img/קפה.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+
+}
+
+#i4:hover {
+    background-image: url(img/קפה-hover.png);
+}
+
+#i5 {
+    background-image: url(./img/מלגה-צימוקים.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i5:hover {
+    background-image: url(img/מלגה-צימוקים-hover.png);
+}
+
+#i6 {
+    background-image: url(./img/פיסטוק.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i6:hover {
+    background-image: url(img/פיסטוק-hover.png);
+}
+
+#i7 {
+    background-image: url(./img/פופקורן.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i7:hover {
+    background-image: url(img/פופקורן-hover.png);
+
+}
+
+#i8 {
+    background-image: url(./img/בואנו-ביאנקו.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+
+}
+
+#i8:hover {
+    background-image: url(img/בואנו-ביאנקו-hover.png);
+}
+
+#i9 {
+    background-image: url(./img/ציז-קייק-פירות-יער.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i9:hover {
+    background-image: url(img/ציז-קייק-פירות-יער-hover.png);
+}
+
+#i10 {
+    background-image: url(img/לוטוס-טבעוני.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i10:hover {
+    background-image: url(img/לוטוס-טבעוני-hover.png);
+}
+
+#i11 {
+    background-image: url(img/מנטה.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+
+}
+
+#i11:hover {
+    background-image: url(img/מנטה-hover.png);
+
+}
+
+#i12 {
+    background-image: url(img/סורבה-מנגו.png);
+    background-size: 280px;
+    background-repeat: no-repeat;
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+
+}
+
+#i12:hover {
+    background-image: url(img/סורבה-מנגו-hover.png);
+}
+
+
+
+#iceImg {
+    width: 18%;
+    margin-left: 80%;
+    margin-top: -35%;
+}
+
+
+#popup {
+    display: none;
+    /* התחל עם הפופאפ נסתר */
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    z-index: 1000;
+    width: 25%;
+    height: 30%;
+}
+
+/*   מסך ערפל */
+#overlay {
+    display: none;
+    /* התחל עם הערפל נסתר */
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.start {
+    overflow: hidden;
+}
+
+#name,
+#code {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 65%;
+    box-sizing: border-box;
+    border: 2px solid #E63312;
+    border-radius: 4px;
+    background-color: white;
+    outline: none;
+    padding: 9px 14px 9px 24px;
+    text-align: center;
+
+
+}
+
+#enter {
+
+    border: none;
+    color: white;
+    background-color: #E63312;
+    margin-right: 40%;
+    width: 65%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border: none;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+#wel {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #555555;
+}

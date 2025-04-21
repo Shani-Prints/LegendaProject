@@ -1,0 +1,564 @@
+[
+    {
+        "code": "29",
+        "name": "קרפ צרפתי",
+        "price": "30",
+        "image": "./img/קפה ומתוקים/29.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "30",
+        "name": "אייס קפה הפוך",
+        "price": "12",
+        "image": "./img/קפה ומתוקים/30.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "2",
+        "name": "וופל בלגי כרמל",
+        "price": "25",
+        "image": "./img/קפה ומתוקים/2.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "5",
+        "name": "אייס שוקו ",
+        "price": "15",
+        "image": "./img/קפה ומתוקים/5.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "3",
+        "name": "וופל פירות יער",
+        "price": "30",
+        "image": "./img/קפה ומתוקים/3.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "6",
+        "name": "אייס קרחים",
+        "price": "10",
+        "image": "./img/קפה ומתוקים/6.webp",
+        "category": "coffee"
+    },
+    {
+        "code": "50",
+        "name": "אייס קפה בטעמים",
+        "price": "18",
+        "image": "./img/קפה ומתוקים/50.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "51",
+        "name": "אייס קפוצינו",
+        "price": "20",
+        "image": "./img/קפה ומתוקים/51.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "52",
+        "name": "קרפ צרפתי משובח",
+        "price": "30",
+        "image": "./img/קפה ומתוקים/52.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "53",
+        "name": "פנקייק איניפיטי",
+        "price": "20",
+        "image": "./img/קפה ומתוקים/53.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "4",
+        "name": "אייס ריבת חלב",
+        "price": "12",
+        "image": "./img/קפה ומתוקים/4.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "54",
+        "name": "וופל שכבות",
+        "price": "50",
+        "image": "./img/קפה ומתוקים/54.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "55",
+        "name": "אייס שוקו ",
+        "price": "12",
+        "image": "./img/קפה ומתוקים/55.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "56",
+        "name": "וופל לוטוס",
+        "price": "27",
+        "image": "./img/קפה ומתוקים/56.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "57",
+        "name": "וופל עם כדורי גלידה",
+        "price": "25",
+        "image": "./img/קפה ומתוקים/57.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "58",
+        "name": "כדורי פנקייק",
+        "price": "25",
+        "image": "./img/קפה ומתוקים/58.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "59",
+        "name": "שוקולטה",
+        "price": "22",
+        "image": "./img/קפה ומתוקים/59.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "60",
+        "name": "וופל בצורת פרח",
+        "price": "25",
+        "image": "./img/קפה ומתוקים/60.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "1",
+        "name": "וופל בלגי תותים",
+        "price": "30",
+        "image": "./img/קפה ומתוקים/1.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "61",
+        "name": "קפה הפוך",
+        "price": "12",
+        "image": "./img/קפה ומתוקים/61.jpg",
+        "category": "coffee"
+    },
+    {
+        "code": "8",
+        "name": "פרוזן תותים",
+        "price": "25",
+        "image": "./img/פרוזן/8.jpg",
+        "category": "prozen"
+    },   
+    {
+        "code": "12",
+        "name": " פרוזן פירות קפואים",
+        "price": "24",
+        "image": "./img/פרוזן/12.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "70",
+        "name": "פרוזן מתוק",
+        "price": "29",
+        "image": "./img/פרוזן/70.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "10",
+        "name": "פרוזן תותים ללא סוכר",
+        "price": "25",
+        "image": "./img/פרוזן/10.png",
+        "category": "prozen"
+    },
+    {
+        "code": "62",
+        "name": "יוגורט מפנק",
+        "price": "60",
+        "image": "./img/פרוזן/62.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "63",
+        "name": "מארז פרוזן",
+        "price": "70",
+        "image": "./img/פרוזן/63.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "64",
+        "name": "פרוזן בקרטון",
+        "price": "30",
+        "image": "./img/פרוזן/64.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "7",
+        "name": "פרוזן דובדבנים",
+        "price": "28",
+        "image": "./img/פרוזן/7.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "65",
+        "name": "פרוזן יוגורט",
+        "price": "29",
+        "image": "./img/פרוזן/65.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "71",
+        "name": "פרוזן משפחתי",
+        "price": "60",
+        "image": "./img/פרוזן/71.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "72",
+        "name": "פרוזן פירות טרופיים",
+        "price": "65",
+        "image": "./img/פרוזן/72.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "11",
+        "name": "פרוזן פירות יער",
+        "price": "29",
+        "image": "./img/פרוזן/11.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "68",
+        "name": "פרוזן יוגורט",
+        "price": "29",
+        "image": "./img/פרוזן/68.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "9",
+        "name": "פרוזן אוכמניות",
+        "price": "26",
+        "image": "./img/פרוזן/9.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "67",
+        "name": "פרוזן יוגורט במארז",
+        "price": "50",
+        "image": "./img/פרוזן/67.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "73",
+        "name": "פרוזן מיקס",
+        "price": "60",
+        "image": "./img/פרוזן/73.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "112",
+        "name": "פרוזן מוקה",
+        "price": "26",
+        "image": "./img/פרוזן/112.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "113",
+        "name": " פרוזן פירות יער",
+        "price": "24",
+        "image": "./img/פרוזן/113.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "114",
+        "name": "פרוזן פטל",
+        "price": "29",
+        "image": "./img/פרוזן/114.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "115",
+        "name": "פרוזן פטל תותים",
+        "price": "25",
+        "image": "./img/פרוזן/115.jpg",
+        "category": "prozen"
+    },
+    {
+        "code": "17",
+        "name": "סורבה ויקיפדיה",
+        "price": "24",
+        "image": "./img/סורבה/17.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "18",
+        "name": "סורבה טרופי",
+        "price": "25",
+        "image": "./img/סורבה/18.webp",
+        "category": "sorve"
+    },
+    {
+        "code": "19",
+        "name": "סורבה תותים",
+        "price": "26",
+        "image": "./img/סורבה/19.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "20",
+        "name": "סורבה ענבים",
+        "price": "25",
+        "image": "./img/סורבה/20.webp",
+        "category": "sorve"
+    },
+    {
+        "code": "104",
+        "name": "סורבה אוכמניות",
+        "price": "30",
+        "image": "./img/סורבה/104.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "105",
+        "name": "סורבה אפרסקים",
+        "price": "25",
+        "image": "./img/סורבה/105.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "106",
+        "name": "סורבה תותים",
+        "price": "27",
+        "image": "./img/סורבה/106.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "107",
+        "name": "סורבה מנגו",
+        "price": "28",
+        "image": "./img/סורבה/107.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "100",
+        "name": "סורבה מנגו",
+        "price": "30",
+        "image": "./img/סורבה/100.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "101",
+        "name": "סורבה פירות יער",
+        "price": "25",
+        "image": "./img/סורבה/101.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "111",
+        "name": "סורבה פטל",
+        "price": "28",
+        "image": "./img/סורבה/111.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "103",
+        "name": "סורבה תותים",
+        "price": "28",
+        "image": "./img/סורבה/103.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "108",
+        "name": "סורבה ברי בול",
+        "price": "30",
+        "image": "./img/סורבה/108.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "109",
+        "name": "סורבה בננות",
+        "price": "25",
+        "image": "./img/סורבה/109.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "110",
+        "name": "סורבה אבטיח",
+        "price": "27",
+        "image": "./img/סורבה/110.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "16",
+        "name": "סורבה ללא סוכר",
+        "price": "28",
+        "image": "./img/סורבה/16.jpg",
+        "category": "sorve"
+    },
+  
+    {
+        "code": "13",
+        "name": "סורבה אבטיח",
+        "price": "30",
+        "image": "./img/סורבה/13.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "14",
+        "name": "סורבה אבטיח אגוזים",
+        "price": "25",
+        "image": "./img/סורבה/14.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "15",
+        "name": "סורבה מנגו",
+        "price": "27",
+        "image": "./img/סורבה/15.jpg",
+        "category": "sorve"
+    },
+    {
+        "code": "102",
+        "name": "סורבה פסיפלורה",
+        "price": "27",
+        "image": "./img/סורבה/102.jpg",
+        "category": "sorve"
+    },
+   
+    {
+        "code": "34",
+        "name": "גלידה אמריקאית שמנת",
+        "price": "25",
+        "image": "./img/גלידות אמריקאיות/34.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "35",
+        "name": "גלידה עם תוספות",
+        "price": "23",
+        "image": "./img/גלידות אמריקאיות/35.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "36",
+        "name": "גלידה אמריקאית לוטוס",
+        "price": "26",
+        "image": "./img/גלידות אמריקאיות/36.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "44",
+        "name": "גלידה פירות יער",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/44.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "31",
+        "name": "גלידה קפה בטעמים",
+        "price": "23",
+        "image": "./img/גלידות אמריקאיות/31.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "39",
+        "name": "גלידה עם תוספות",
+        "price": "39",
+        "image": "./img/גלידות אמריקאיות/39.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "33",
+        "name": "גלידה תותים",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/33.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "47",
+        "name": "גלידה תות בננה",
+        "price": "25",
+        "image": "./img/גלידות אמריקאיות/47.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "49",
+        "name": "גלידה ריבת חלב",
+        "price": "23",
+        "image": "./img/גלידות אמריקאיות/49.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "48",
+        "name": "גלידה אמריקאית בטעמים",
+        "price": "26",
+        "image": "./img/גלידות אמריקאיות/48.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "50",
+        "name": "גלידה שוקו וניל",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/50.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "51",
+        "name": "גלידה עם עוגיות",
+        "price": "25",
+        "image": "./img/גלידות אמריקאיות/51.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "21",
+        "name": "גלידה אמריקאית בטעמים",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/21.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "22",
+        "name": "גלידה אמריקאית שוקו-וניל",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/22.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "23",
+        "name": "גלידה אמריקאית בוופל",
+        "price": "20",
+        "image": "./img/גלידות אמריקאיות/23.png",
+        "category": "americanIce"
+    },
+    {
+        "code": "24",
+        "name": "גלידה אמריקאית תותים",
+        "price": "21",
+        "image": "./img/גלידות אמריקאיות/24.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "25",
+        "name": "גלידה אמריקאית אוראו",
+        "price": "23",
+        "image": "./img/גלידות אמריקאיות/25.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "26",
+        "name": "גלידה אמריקאית אגוזים",
+        "price": "26",
+        "image": "./img/גלידות אמריקאיות/26.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "27",
+        "name": "גלידה אמריקאית שחורה",
+        "price": "22",
+        "image": "./img/גלידות אמריקאיות/27.jpg",
+        "category": "americanIce"
+    },
+    {
+        "code": "28",
+        "name": "גלידה אמריקאית שמנת",
+        "price": "25",
+        "image": "./img/גלידות אמריקאיות/28.jpg",
+        "category": "americanIce"
+    }
+]
